@@ -29,7 +29,7 @@ Welcome to my portfolio! Here is where I leave links to all of my projects. I wa
 # SQL
 
 | Project Link | Area | Project Description | 
-|[e-Commerce Customer Segmentation RFM](https://github.com/July-to-me/Customer.Segmentation.RFM.Analysis)|---|
+|[e-Commerce Customer Segmentation RFM](https://github.com/July-to-me/Customer.Segmentation.RFM.Analysis)|---|---| ---|
 |---|---|---|---|
 
 ### 
