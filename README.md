@@ -28,6 +28,12 @@ Welcome to my portfolio! Here is where I leave links to all of my projects. I wa
 
 # SQL
 
+
+| Project Link | Area | Project Description |
+|---|---|---|
+| [e-Commerce Customer Segmentation RFM](https://github.com/July-to-me/Customer.Segmentation.RFM.Analysis) | Data cleaning, and transformation |  I wanted to get used to SQL's code by seeing how to create different tables in the .csv file. I also utilized RFM in order to see which customers are loyal, and which ones have not made a purchase in a given amount of months. I later created a Tableau dashboard to present my findings. | 
+
+
 | Project Link | Area | Project Description | 
 |[e-Commerce Customer Segmentation RFM](https://github.com/July-to-me/Customer.Segmentation.RFM.Analysis)|---|---| ---|
 |---|---|---|---|
