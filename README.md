@@ -37,5 +37,6 @@ Welcome to my portfolio! Here is where I leave links to all of my projects. I wa
 
 # Tableu
 
-| Project Link | Project Description | Dashboard Link |
-|---|---|---|---|
+| Project Link | Project Description | Dashboard Link | 
+|---|---|---|
+
