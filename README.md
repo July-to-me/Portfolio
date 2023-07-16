@@ -10,10 +10,16 @@ Welcome to my portfolio! Here is where I leave links to all of my projects. I wa
 
 # Python
 
+| Project Link | Area | Project Description | Libraries | 
+|---|---|---|---|
+| [Pokemon](https://github.com/July-to-me/Pokemon_Data_Analysis) | EDA & Regression Analysis | I wanted to see if there was a consistent trend in Pokemon types. I wanted to see if a type has a certain affinity to it, an example is whether fighting-type Pokemon have high attacks compared to other types. I conducted this analysis by grouping them into their respective types, as well as the generation the Pokemon was showcased, in order to see if there is a trend of Pokemon type being specialized in a certain affinity. | Pandas, Matplotlib, Plotly, and Seaborn |
+| [Smart Lights](https://github.com/July-to-me/Smart_Lights_ML_Data_Analysis)| EDA & Machine Learning |This old capstone from college helped me improve overall in Python. I tried to get into different affluent houses and see if there is a statistical difference in how much energy they used up over a period of time. I would like to see if I can redo this but be able to run a full analysis of the whole dataset, rather than randomly select a certain amount of samples and not the whole population. | Pandas, Matplotlib, and Seaborn |
+
+
 | Project Link | Area | Project Description | 
 |---|---|---|---|
-|[Pokemon](https://github.com/July-to-me/Pokemon_Data_Analysis)| EDA & Regression Analysis | I wanted to see if there was a consistent trend in Pokemon types. I wanted to see if a type has a certain affinity to it, an example of this is whether fighting-type Pokemon have high attacks compared to other types. I conducted this analysis by grouping them into their respective types, as well as the generation the Pokemon was showcased, in order to see if there is a trend of Pokemon type being specialized in a certain affinity. |
-|[Smart Lights](https://github.com/July-to-me/Smart_Lights_ML_Data_Analysis)|EDA & Machine Learning| This was an old capstone from college that helped me get better in Python overall. I tried to get into different |---|
+|[Pokemon](https://github.com/July-to-me/Pokemon_Data_Analysis)| EDA & Regression Analysis | I wanted to see if there was a consistent trend in Pokemon types. I wanted to see if a type has a certain affinity to it, an example is whether fighting-type Pokemon have high attacks compared to other types. I conducted this analysis by grouping them into their respective types, as well as the generation the Pokemon was showcased, in order to see if there is a trend of Pokemon type being specialized in a certain affinity. |
+|[Smart Lights](https://github.com/July-to-me/Smart_Lights_ML_Data_Analysis)|EDA & Machine Learning| This old capstone from college helped me improve overall in Python. I tried to get into different affluent houses and see if there is a statistical difference in how much energy they used up over a period of time. I would like to see if I can redo this but be able to run a full analysis of the whole dataset, rather than randomly select a certain amount of samples and not the whole population. |---|
 
 ### 
 
