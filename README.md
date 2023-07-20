@@ -6,7 +6,6 @@ Welcome to my portfolio! Here is where I leave links to all of my projects. I wa
 - [Python](#python)
 - [R](#r)
 - [SQL](#sql)
-- [Tableu](#tableu)
 
 # Python
 
